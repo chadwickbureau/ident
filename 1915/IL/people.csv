@@ -1,6 +1,7 @@
 person.key,person.name.last,person.name.first,entry.name
 bader-buf,Bader,,Buffalo
 beebe-buf,Beebe,,Buffalo
+beebe-buf,Beeb,,Buffalo
 carlstrom-buf,Carlstrom,,Buffalo
 channell-buf,Channell,,Buffalo
 fullenwider-buf,Fullenwider,,Buffalo
@@ -15,31 +16,36 @@ lalonge-buf,Lalonge,,Buffalo
 mccarthy-buf,McCarthy,,Buffalo
 oldham-buf,Oldham,,Buffalo
 onslow-buf,Onslow,,Buffalo
+onslow-buf,Onslow,J.,Buffalo
+onslow-buf,Onslow,John,Buffalo
 tyson-buf,Tyson,,Buffalo
-brown-har,Brown,,Harrisburg
-callahan-har,Callahan,,Harrisburg
-chabek-har,Chabek,,Harrisburg
-enzmann-har,Enzmann,,Harrisburg
-goodbred-ric+har,Goodbred,,Harrisburg
-hechinger-har,Hechinger,,Harrisburg
-kraft-har,Kraft,,Harrisburg
-lee-har,Lee,,Harrisburg
-mensor-har,Mensor,,Harrisburg
-mowe-har,Mowe,,Harrisburg
-reynolds-jc+har,Reynolds,,Harrisburg
-schacht-har,Schacht,,Harrisburg
-schmutz-har,Schmutz,,Harrisburg
-smallwood-har,Smallwood,,Harrisburg
-snow-har,Snow,,Harrisburg
-tamm-mon+jc+har,Tamm,,Harrisburg
-thorpe-jc+har,Thorpe,,Harrisburg
-tierney-har,Tierney,,Harrisburg
-tooley-har,Tooley,,Harrisburg
-witterstaetter-har,Witterstaetter,,Harrisburg
-zimmerman-har,Zimmerman,,Harrisburg
+brown-har,Brown,,Newark/Harrisburg
+callahan-har,Callahan,,Newark/Harrisburg
+chabek-har,Chabek,,Newark/Harrisburg
+enzmann-har,Enzmann,,Newark/Harrisburg
+goodbred-ric+har,Goodbred,,Newark/Harrisburg
+hechinger-har,Hechinger,,Newark/Harrisburg
+hechinger-har,Heckinger,,Newark/Harrisburg
+hechinger-har,Hackinger,,Newark/Harrisburg
+kraft-har,Kraft,,Newark/Harrisburg
+lee-har,Lee,,Newark/Harrisburg
+mensor-har,Mensor,,Newark/Harrisburg
+mowe-har,Mowe,,Newark/Harrisburg
+reynolds-jc+har,Reynolds,,Newark/Harrisburg
+schacht-har,Schacht,,Newark/Harrisburg
+schmutz-har,Schmutz,,Newark/Harrisburg
+smallwood-har,Smallwood,,Newark/Harrisburg
+snow-har,Snow,,Newark/Harrisburg
+tamm-mon+jc+har,Tamm,,Newark/Harrisburg
+thorpe-jc+har,Thorpe,,Newark/Harrisburg
+tierney-har,Tierney,,Newark/Harrisburg
+tooley-har,Tooley,,Newark/Harrisburg
+witterstaetter-har,Witterstaetter,,Newark/Harrisburg
+zimmerman-har,Zimmerman,,Newark/Harrisburg
 barney-jc,Barney,,Jersey City
 barry-jc,Barry,,Jersey City
 bentley-pro+jc,Bentley,,Jersey City
+bentley-pro+jc,Bently,,Jersey City
 blake-jc,Blake,,Jersey City
 bruck-jc,Bruck,,Jersey City
 bues-jc,Bues,,Jersey City
@@ -49,6 +55,7 @@ crutcher-jc,Crutcher,,Jersey City
 demmitt-tor+jc,Demmitt,,Jersey City
 layden-jc,Layden,,Jersey City
 manning-jc,Manning,,Jersey City
+manning-jc,Manning,S.,Jersey City
 oleary-jc,O'Leary,,Jersey City
 purtell-mon+jc,Purtell,,Jersey City
 reynolds-jc+har,Reynolds,,Jersey City
@@ -60,11 +67,13 @@ tamm-mon+jc+har,Tamm,,Jersey City
 thompson-jc,Thompson,,Jersey City
 thorpe-jc+har,Thorpe,,Jersey City
 tragesser-jc,Tragesser,,Jersey City
+tragreser-jc,Tragressor,,Jersey City
 truesdale-jc,Truesdale,,Jersey City
 turner-jc,Turner,,Jersey City
 verbout-jc,Verbout,,Jersey City
 wiltse-jc,Wiltse,,Jersey City
 wright-jc,Wright,,Jersey City
+wright-jc,Wright,Wm.,Jersey City
 yeager-mon+jc,Yeager,,Jersey City
 yelle-jc,Yelle,,Jersey City
 almeida-mon,Almeida,,Montreal
@@ -85,17 +94,20 @@ purtell-mon+jc,Purtell,,Montreal
 richter-mon,Richter,,Montreal
 sherry-mon,Sherry,,Montreal
 smith.a-roc+mon,Smith,Klondike,Montreal
+smith.a-roc+mon,Smith,F.,Montreal
 smith.p-mon,Smith,P.,Montreal
 tamm-mon+jc+har,Tamm,,Montreal
 whiteman-mon,Whiteman,,Montreal
 yeager-mon+jc,Yeager,,Montreal
 bentley-pro+jc,Bentley,,Providence
+bentley-pro+jc,Bently,,Providence
 casey-pro,Casey,,Providence
 comstock-pro,Comstock,,Providence
 cooper-pro,Cooper,,Providence
 eayrs-pro,Eayrs,,Providence
 fabrique-proc,Fabrique,,Providence
 gill-pro,Gill,,Providence
+haley-pro,Haley,,Providence
 kocher-pro+tor,Kocher,,Providence
 masterman-pro,Masterman,,Providence
 mcnally-pro,McNally,,Providence
@@ -110,7 +122,9 @@ shean-pro,Shean,,Providence
 shorten-pro,Shorten,,Providence
 shultz-pro,Shultz,,Providence
 shultz-pro,Schultz,,Providence
+shultz-pro,Schulta,,Providence
 tutwiler-pro,Tutwiler,,Providence
+tutwiler-pro,Tutweiler,,Providence
 andrews-ric,Andrews,,Richmond
 aragon-ric,Aragon,,Richmond
 ball-ric+tor,Ball,,Richmond
@@ -130,6 +144,7 @@ hoffman-ric,Hoffman,,Richmond
 jarman-ric,Jarman,,Richmond
 jordan-tor+ric,Jordan,,Richmond
 krichell-ric,Krichell,,Richmond
+krichell-ric,Kritchell,,Richmond
 mchale-mon+ric,McHale,,Richmond
 meadows-ric,Meadows,,Richmond
 morrisette-ric,Morrisette,,Richmond
@@ -140,6 +155,7 @@ odonnell-ric,O'Donnell,,Richmond
 pick-ric,Pick,,Richmond
 russell-ric,Russell,,Richmond
 schaufele-ric,Schaufele,,Richmond
+schaufele-ric,Schautele,,Richmond
 stertzer-ric,Stertzer,,Richmond
 sweeney-ric,Sweeney,,Richmond
 thompson-ric,Thompson,,Richmond
@@ -149,6 +165,7 @@ clements-roc,Clements,,Rochester
 erickson-roc,Erickson,,Rochester
 erwin-roc,Erwin,,Rochester
 herche-roc,Herche,,Rochester
+herche-roc,Hersche,,Rochester
 hoff-roc,Hoff,,Rochester
 holke-roc,Holke,,Rochester
 holke-roc,Hoelke,,Rochester
@@ -160,11 +177,14 @@ piez-roc,Piez,,Rochester
 priest-roc,Priest,,Rochester
 shannon-roc,Shannon,,Rochester
 smith.a-roc+mon,Smith,Klondike,Rochester
+smith.a-roc+mon,Smith,F.,Rochester
+smith.a-roc+mon,Smith,[F.],Rochester
 stevenson-roc,Stevenson,,Rochester
 walker-roc,Walker,,Rochester
 wanamaker-roc,Wanamaker,,Rochester
 williams.a-roc,Williams,A.,Rochester
 williams.r-roc,Williams,R.,Rochester
+williams.r-roc,Williams,[R.],Rochester
 zimmerman-roc,Zimmerman,,Rochester
 zimmerman-roc,Zimmerman,W.,Rochester
 ball-ric+tor,Ball,,Toronto
@@ -187,6 +207,7 @@ kocher-pro+tor,Kocher,,Toronto
 konnick-tor,Konnick,,Toronto
 luque-tor,Luque,,Toronto
 manning-tor,Manning,,Toronto
+manning-tor,Manning,W.,Toronto
 mctigue-tor,McTigue,,Toronto
 messenger-roc+tor,Messenger,,Toronto
 ohara-tor,O'Hara,,Toronto

@@ -79,6 +79,7 @@ hartsell-fw,Hartsell,,Fort Wayne
 holderman-fw,Holderman,,Fort Wayne
 jones-day+fw,Jones,,Fort Wayne
 meyers-fw,Meyers,,Fort Wayne
+meyers-fw,Meyers,L.,Fort Wayne
 myers-fw,Myers,,Fort Wayne
 osborne-fw,Osborne,,Fort Wayne
 ostermeyer-fw,Ostermeyer,,Fort Wayne
@@ -88,6 +89,7 @@ smyth-fw,Smyth,,Fort Wayne
 tuman-fw,Tuman,,Fort Wayne
 alcock-eri+gr,Alcock,,Grand Rapids
 anderson-gr+whe,Anderson,,Grand Rapids
+bell-gr,Bell,,Grand Rapids
 callahan-gr,Callahan,,Grand Rapids
 carlson-gr,Carlson,,Grand Rapids
 dehaven-gr,DeHaven,,Grand Rapids
@@ -113,6 +115,7 @@ brautigam-th,Brautigan,,Terre Haute
 brown-th,Brown,,Terre Haute
 evers-th,Evers,,Terre Haute
 gilbert-th,Gilbert,,Terre Haute
+gilbert-th,Gilvert,,Terre Haute
 gray-th,Gray,,Terre Haute
 gregg-th,Gregg,,Terre Haute
 griesel-th,Griesel,,Terre Haute
@@ -139,6 +142,7 @@ lear-whe,Lear,,Wheeling
 martin-whe+eri,Martin,,Wheeling
 matteson-th+whe,Matteson,,Wheeling
 meister-whe,Meister,,Wheeling
+meister-whe,Meiser,,Wheeling
 mullaney-whe,Mullaney,,Wheeling
 neale-whe,Neale,,Wheeling
 nespo-whe,Nespo,,Wheeling
@@ -147,6 +151,7 @@ oday-whe+th,O'Day,,Wheeling
 oneil-whe,O'Neil,,Wheeling
 orris-whe+day,Orris,,Wheeling
 pracht-whe,Pracht,,Wheeling
+reilly-whe,Reilly,,Wheeling
 ridley-day+whe,Ridley,,Wheeling
 shriver-whe,Shriver,,Wheeling
 sisson-whe,Sisson,,Wheeling
@@ -165,7 +170,6 @@ hemphill-you,Hamphill,,Youngstown
 hill-you,Hill,,Youngstown
 kelley-you,Kelley,,Youngstown
 mcauley-you,McAuley,,Youngstown
-reilly-you,Reilly,,Youngstown
 scheeren-you,Scheeren,,Youngstown
 schettler-you,Schettler,,Youngstown
 schmitt-you,Schmitt,,Youngstown

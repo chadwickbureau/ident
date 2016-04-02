@@ -56,12 +56,14 @@ keiffer-cha,Keiffer,,Chambersburg
 kleine-cha,Kline,,Chambersburg
 kleine-cha,Klein,,Chambersburg
 kleine-cha,Kleine,,Chambersburg
+kleine-cha,Keline,,Chambersburg
 kleskie-cha,Kleskie,,Chambersburg
 kleskie-cha,Kleiskie,,Chambersburg
 kleskie-cha,Kloskey,,Chambersburg
 lawrence-han+cha,Lawrence,,Chambersburg
 lockhart-cha,Lockhart,,Chambersburg
 masterson-cha,Masterson,,Chambersburg
+masterson-cha,Masteson,,Chambersburg
 masterson-cha,Mas'on,,Chambersburg
 masterson-cha,Masterman,,Chambersburg
 mcmillan-cha,McMillan,,Chambersburg
@@ -76,6 +78,7 @@ moseley-cha,Mosley,,Chambersburg
 myers-cha+han,Myers,,Chambersburg
 myers-cha+han,Meyers,,Chambersburg
 philips-cha,Phillips,,Chambersburg
+philips-cha,Philips,,Chambersburg
 plitt-han+cha,Plitt,,Chambersburg
 poune-cha,Paune,,Chambersburg
 poune-cha,Poune,,Chambersburg
@@ -95,8 +98,10 @@ snell-cha,Snell,,Chambersburg
 snyder-cha,Snyder,,Chambersburg
 steinbach-han+cha,Steinbach,,Chambersburg
 steinbach-han+cha,Stinebach,,Chambersburg
+steinbach-han+cha,Steinboch,,Chambersburg
 stewart-cha,Stewart,,Chambersburg
 strausbaugh-fre+cha,Strasbaugh,,Chambersburg
+strausbaugh-fre+cha,Strausbaugh,,Chambersburg
 stricker-cha,Stricker,,Chambersburg
 stricker-cha,Strickler,,Chambersburg
 stroh.g-cha+han,Stroh,C.,Chambersburg
@@ -115,6 +120,7 @@ barnhart-fre,Barnh't,,Frederick
 beall-fre,Beall,,Frederick
 beck-fre,Beck,,Frederick
 boyne-fre+get,Boyne,,Frederick
+boyne-fre+get,Boyle,,Frederick
 connolly-fre,Connolly,,Frederick
 connolly-fre,Connelly,,Frederick
 connolly-fre,Connel,,Frederick
@@ -164,6 +170,7 @@ bigler-get,Bigler,,Gettysburg
 bigler-get,Bigeler,,Gettysburg
 bitters-cha+get,Bitters,,Gettysburg
 boyne-fre+get,Boyne,,Gettysburg
+boyne-fre+get,Boyle,,Gettysburg
 bream-get,Bream,,Gettysburg
 bream-get,Brean,,Gettysburg
 burns-get,Burns,,Gettysburg
@@ -350,6 +357,7 @@ steinbach-han+cha,Steinb'h,,Hanover
 stover-get+han,Stover,,Hanover
 stroh.g-cha+han,Stroh,,Hanover
 traub-han+mar,Traub,,Hanover
+traub-han+mar,Troub,,Hanover
 ziser-han,Ziser,,Hanover
 bauer-mar,Bauer,,Martinsburg
 bauer-mar,Bower,,Martinsburg
@@ -421,6 +429,7 @@ thornetti-mar,Thornet,,Martinsburg
 thornetti-mar,Thornetti,,Martinsburg
 tomkins-mar,Tomkins,,Martinsburg
 traub-han+mar,Traub,,Martinsburg
+traub-han+mar,Troub,,Martinsburg
 westenhaver-mar,Westerhaver,,Martinsburg
 westenhaver-mar,Westenhaver,,Martinsburg
 zachary-mar,Zachary,,Martinsburg
