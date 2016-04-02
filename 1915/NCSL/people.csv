@@ -28,9 +28,9 @@ gooch-ash,Gooch,,Asheville
 groome-ash,Groome,,Asheville
 heck-ash+cha+ws,Heck,,Asheville
 hewell-ash,Hewell,,Asheville
+hewell-ash,Howell,,Asheville
 hickman-ash,Hickman,,Asheville
 hickson-ash,Hickson,,Asheville
-howell-ash,Howell,,Asheville
 ingle-ash,Ingle,,Asheville
 jiminez-ash,Jiminez,,Asheville
 kirke-ash+gre+ws,Kirke,,Asheville
@@ -78,7 +78,6 @@ lockerbie-cha,Lockerbie,,Charlotte
 lowe-cha,Lowe,,Charlotte
 manchester-cha,Manchester,,Charlotte
 mason-cha,Mason,,Charlotte
-mason-cha,Wason,,Charlotte
 mcdonald-cha,McDonald,,Charlotte
 moore-cha+gre,Moore,,Charlotte
 munch-cha,Munch,,Charlotte
@@ -105,6 +104,7 @@ smith-cha,Smith,,Charlotte
 sweeney-cha,Sweeney,,Charlotte
 tesch-cha,Tesch,,Charlotte
 walker-cha,Walker,,Charlotte
+wasem-cha,Wason,,Charlotte
 wells-cha,Wells,,Charlotte
 wofford-cha,Wofford,,Charlotte
 wofford-cha,Wifford,,Charlotte
@@ -206,10 +206,10 @@ welch-gre,Welch,,Greensboro
 yoder-gre,Yoder,,Greensboro
 brasier-ral,Brasier,,Raleigh
 brasier-ral,Brazier,,Raleigh
-bysert-ral,Bysert,,Raleigh
 citrano-ral,Citrano,,Raleigh
 currie-ral,Currie,,Raleigh
 dysert-ral,Dysert,,Raleigh
+dysert-ral,Bysert,,Raleigh
 farmer-ral,Farmer,,Raleigh
 gittings-ral,Gittings,,Raleigh
 gutierrez-ral,Guitterez,,Raleigh
@@ -230,6 +230,7 @@ newman-ral,Newman,,Raleigh
 osoba-ral,Osoba,,Raleigh
 parnham-ral,Parnham,,Raleigh
 parnham-ral,Parnhess,,Raleigh
+parnham-ral,Tarnham,,Raleigh
 perkins-ral,Perkins,,Raleigh
 poole-ral,Pool,,Raleigh
 poole-ral,Poole,,Raleigh
@@ -237,18 +238,16 @@ roberts-ral,Roberts,,Raleigh
 schuyler-ral,Schuyler,,Raleigh
 tally-ral,Tally,,Raleigh
 tally-ral,Talley,,Raleigh
-tarnham-ral,Tarnham,,Raleigh
 yon-ral+cha,Yon,,Raleigh
 barber-ws,Barber,,Winston-Salem
 bartell-ws,Bartell,,Winston-Salem
 bartell-ws,Bartells,,Winston-Salem
 baumgardner-ws,Baumgardner,,Winston-Salem
 baumgardner-ws,Baumgartner,,Winston-Salem
+baumgardner-ws,Bumgartner,,Winston-Salem
 bixby-ws,Bixby,,Winston-Salem
 boggess-ws,Boggess,,Winston-Salem
-bumgartner-ws,Bumgartner,,Winston-Salem
 burge-ws,Burge,,Winston-Salem
-cates-ws,Cates,,Winston-Salem
 clapp-ash+ws,Clapp,,Winston-Salem
 crow-ws,Crow,,Winston-Salem
 donaldson-ws,Donaldson,,Winston-Salem
@@ -258,6 +257,7 @@ ferabee-ws,Ferabee,,Winston-Salem
 fisher-ws,Fisher,,Winston-Salem
 foley-ws,Foley,,Winston-Salem
 gates-ws,Gates,,Winston-Salem
+gates-ws,Cates,,Winston-Salem
 gill-ws,Gill,,Winston-Salem
 gingras-ws,Gingras,,Winston-Salem
 gittings-ws,Gittings,,Winston-Salem
@@ -266,6 +266,7 @@ hargrave-ws,Hargrave,,Winston-Salem
 hass-ws,Hass,,Winston-Salem
 heck-ash+cha+ws,Heck,,Winston-Salem
 honig-ws,Honig,,Winston-Salem
+honig-ws,Ronig,,Winston-Salem
 howard-gre+ws,Howard,,Winston-Salem
 hunter-ws,Hunter,,Winston-Salem
 jordan-ws,Jordan,,Winston-Salem
@@ -286,7 +287,6 @@ parker-ws,Parker,,Winston-Salem
 parkins-ws,Parkins,,Winston-Salem
 patterson-ws,Patterson,,Winston-Salem
 ray-ws,Ray,,Winston-Salem
-ronig-ws,Ronig,,Winston-Salem
 saunders-ws+cha,Saunders,,Winston-Salem
 schwartje-ws,Schwartje,,Winston-Salem
 schwartje-ws,Schwartie,,Winston-Salem
